@@ -6,7 +6,7 @@ Shaurya Rawat-23BCE0615-Maze and lottery
 
 Dibeyendu De-23BCE0637- World of watches(wow) and layouts for all the floors
 
-Vansh Dhir-23BCE0324-MAX, chroma
+Vansh Dhir-23BCE0324-MAX, chroma and lenskart
 
 Vibhor Kataria-23BCE0962-KFC and McD
 
