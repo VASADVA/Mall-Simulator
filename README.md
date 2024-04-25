@@ -13,3 +13,5 @@ Vibhor Kataria-23BCE0962-KFC and McD
 Ajinkya Phatak-23BBCE0643-Crossword and Simonsays memory
 
 Abhinav Singh-23BCE0589-Nike and Keventers
+
+This repository contains the collection of codes done by everybody and contibution of each member is present seperately in name and registration number.
